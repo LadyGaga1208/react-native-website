@@ -181,3 +181,6 @@ MyCustomView.propTypes = {
 
 var RCTMyCustomView = requireNativeComponent(`RCTMyCustomView`);
 ```
+
+Hello, My name is LadyGaga
+Nice to meet you
